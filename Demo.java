@@ -1,5 +1,5 @@
 public class Demo {
     public static void main(String[] args) {
-        System.out.println("Jenkins xyx!");
+        System.out.println("Jenkins xyx aws!");
     }
 }
